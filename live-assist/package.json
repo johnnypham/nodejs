@@ -1,0 +1,16 @@
+{
+  "name": "Jason-Korkin",
+  "subdomain": "jasonkorkin_prototype_CR911",
+  "scripts": {
+    "start": "signaler.js"
+  },
+  "version": "0.0.1-5",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "socket.io": "0.9.x",
+    "node-static": "0.7.x",
+    "express" :"*"
+  }
+}
